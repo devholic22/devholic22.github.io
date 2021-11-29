@@ -1,6 +1,6 @@
 module.exports = {
   title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
+  description: `devholic의 개발 공간`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -11,16 +11,16 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `최현준`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['사람에 가치를 두는', '능동적으로 일하는', '더 나은 코드를 고민하는'],
       thumbnail: 'zoomkoding.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: `https://github.com/zoomkoding`,
+      github: `https://github.com/devholic22`,
       linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: `zoomkoding@gmail.com`,
+      email: `hyunjoon.tech@gmail.com`,
     },
   },
 
